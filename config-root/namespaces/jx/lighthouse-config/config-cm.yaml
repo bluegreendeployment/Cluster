@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - bluegreendeployment/Cluster
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.20.76.182.121.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
