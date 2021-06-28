@@ -6,7 +6,7 @@ cluster:
   gitName: ghe
   gitServer: https://github.beescloud.com
   project: jenkins-x-bdd3
-  provider: gke
+  provider: aks
   zone: europe-west1-c
 environments:
   - key: dev
