@@ -25,7 +25,7 @@ spec:
   - key: production
   ingress:
     domain: 20.76.182.121.nip.io
-    externalDNS: false
+    externalDNS: true
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
